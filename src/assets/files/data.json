@@ -1,0 +1,64 @@
+[{
+    "id":1,
+    "name":"Cu do Matheus",
+    "price":10,
+    "oldPrice":0,
+    "image":"https://media.discordapp.net/attachments/903376092084195358/1013953651036917880/1DDCBF5E-AEB7-4B2E-A9B0-B3E254A96A7F.jpg?width=374&height=498"
+},
+{
+    "id":2,
+    "name":"Cu de todos",
+    "price":200,
+    "oldPrice":200,
+    "image":"https://media.discordapp.net/attachments/903376092084195358/1013953651036917880/1DDCBF5E-AEB7-4B2E-A9B0-B3E254A96A7F.jpg?width=374&height=498"
+},
+{
+    "id":3,
+    "name":"Cu de todos",
+    "price":200,
+    "oldPrice":200,
+    "image":"https://media.discordapp.net/attachments/903376092084195358/1013953651036917880/1DDCBF5E-AEB7-4B2E-A9B0-B3E254A96A7F.jpg?width=374&height=498"
+},
+{
+    "id":4,
+    "name":"Cu de todos",
+    "price":200,
+    "oldPrice":200,
+    "image":"https://media.discordapp.net/attachments/903376092084195358/1013953651036917880/1DDCBF5E-AEB7-4B2E-A9B0-B3E254A96A7F.jpg?width=374&height=498"
+},
+{
+    "id":5,
+    "name":"Cu de todos",
+    "price":200,
+    "oldPrice":200,
+    "image":"https://media.discordapp.net/attachments/903376092084195358/1013953651036917880/1DDCBF5E-AEB7-4B2E-A9B0-B3E254A96A7F.jpg?width=374&height=498"
+},
+{
+    "id":6,
+    "name":"Cu de todos",
+    "price":200,
+    "oldPrice":200,
+    "image":"https://media.discordapp.net/attachments/903376092084195358/1013953651036917880/1DDCBF5E-AEB7-4B2E-A9B0-B3E254A96A7F.jpg?width=374&height=498"
+},
+{
+    "id":7,
+    "name":"Cu de todos",
+    "price":200,
+    "oldPrice":200,
+    "image":"https://media.discordapp.net/attachments/903376092084195358/1013953651036917880/1DDCBF5E-AEB7-4B2E-A9B0-B3E254A96A7F.jpg?width=374&height=498"
+},
+{
+    "id":8,
+    "name":"Cu de todos",
+    "price":200,
+    "oldPrice":200,
+    "image":"https://media.discordapp.net/attachments/903376092084195358/1013953651036917880/1DDCBF5E-AEB7-4B2E-A9B0-B3E254A96A7F.jpg?width=374&height=498"
+},
+{
+    "id":9,
+    "name":"Cu de todos",
+    "price":200,
+    "oldPrice":200,
+    "image":"https://media.discordapp.net/attachments/903376092084195358/1013953651036917880/1DDCBF5E-AEB7-4B2E-A9B0-B3E254A96A7F.jpg?width=374&height=498"
+}
+]

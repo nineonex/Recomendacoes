@@ -1,0 +1,18 @@
+div.container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  background-color: rgb(29, 34, 38);
+  height: 10vh;
+  padding: 10px 20px;
+  margin-top: auto;
+  color: white;
+}
+.copy {
+  font-size: 10px;
+}
+.iconsLink {
+  display: flex;
+  align-items: center;
+}
