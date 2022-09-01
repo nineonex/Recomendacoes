@@ -51,14 +51,14 @@ export function Carousel() {
         {data.map((item) => {
           const { id, name, price, oldPrice, image } = item
           return (
-            <div className='item' key={id}>
+            <div className='itemCarousel' key={id}>
               <div className='image'>
                 <img src={image} alt={name} />
               </div>
-              <div className='info'>
-                <span className='name'>{name}</span>
-                <span className='oldPrice'>R${oldPrice}</span>
-                <span className='price'>R${price}</span>
+              <div className='infoCarousel'>
+                <span className='nameCarousel'>{name}</span>
+                <span className='oldPriceCarousel'>R${oldPrice}</span>
+                <span className='priceCarousel'>R${price}</span>
               </div>
             </div>
           )

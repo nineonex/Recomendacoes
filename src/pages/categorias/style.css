@@ -1,0 +1,46 @@
+.conteinerCategoria {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+}
+.conteinerCategoria .itemCategoria {
+  background-color: rgb(29, 34, 38);
+  margin: 10px;
+  padding: 10px;
+  width: 20%;
+  border-radius: 16px;
+  flex: none;
+}
+.conteinerCategoria .itemCategoria .infoCategoria {
+  height: 140px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+.conteinerCategoria .itemCategoria .infoCategoria span {
+  display: block;
+  text-align: center;
+  color: gray;
+  padding: 5px;
+  border-radius: 10px;
+}
+.conteinerCategoria .itemCategoria .nameCategoria {
+  font-size: 1.2rem;
+  font-weight: bold;
+  margin: 10px 0;
+}
+.conteinerCategoria .itemCategoria .priceCategoria {
+    margin-top: 10px;
+    font-size: 1.2rem;
+}
+.conteinerCategoria .itemCategoria .oldPriceCategoria{
+    flex-grow: 1;
+    font-size: 0.8rem;
+    text-decoration: line-through;
+}
+
+.tituloCategoria{
+    display: flex;
+    justify-content: center;
+}

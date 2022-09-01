@@ -32,20 +32,41 @@ export function NavBar() {
             Home
           </Link>
         </li>
-        <li>
-          <Link to='/categorias' className='link'>
+        <li className='categorias'>
             Categorias
-          </Link>
           <ul>
             <li>
-              <Link to='/categorias/teclado' className='link'>
-                Teclado
-              </Link>
+              <Link to='/amplificador' className='link'>Amplificador</Link>
             </li>
             <li>
-              <Link to='/categorias/teclado' className='link'>
-                Mouse
-              </Link>
+              <Link to='/dac' className='link'>Dac</Link>
+            </li>
+            <li>
+              <Link to='/fone-de-ouvido' className='link'>Fone de Ouvido</Link>
+            </li>
+            <li>
+              <Link to='/headset' className='link'>Headset</Link>
+            </li>
+            <li>
+              <Link to='/microfone' className='link'>Microfone</Link>
+            </li>
+            <li>
+              <Link to='/monitor' className='link'>Monitor</Link>
+            </li>
+            <li>
+              <Link to='/mouse' className='link'>Mouse</Link>
+            </li>
+            <li>
+              <Link to='/mousepad' className='link'>Mousepad</Link>
+            </li>
+            <li>
+              <Link to='/organizacao' className='link'>Organização</Link>
+            </li>
+            <li>
+              <Link to='/periferico' className='link'>Perifericos</Link>
+            </li>
+            <li>
+              <Link to='/teclado' className='link'>Teclado</Link>
             </li>
           </ul>
         </li>

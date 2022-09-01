@@ -15,7 +15,7 @@ nav.containerNavBar {
   gap: 10px;
   position: relative;
 }
-.link {
+.link, .categorias {
   text-decoration: none;
   color: white;
 }
@@ -54,6 +54,6 @@ nav.containerNavBar {
   display: block;
   width: 50px;
 }
-.list li {
-
-}
+/* .categorias:hover{
+ cursor: pointer;
+} */
