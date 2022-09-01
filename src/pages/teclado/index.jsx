@@ -1,7 +1,7 @@
-export function Contatos() {
+export function Teclado() {
   return (
     <>
-      <h1>Contatos</h1>
+      <h1>Teclado</h1>
       <p>
         Lorem ipsum dolor sit amet consectetur adipisicing elit. A labore
         facilis dolorem aperiam sequi molestiae illum delectus temporibus

@@ -1,10 +1,11 @@
-nav.container {
+nav.containerNavBar {
   margin: 0;
   background-color: rgb(29, 34, 38);
   height: 10vh;
   display: flex;
   align-items: center;
   padding: 10px 20px;
+
 }
 .list {
   display: flex;
@@ -12,6 +13,7 @@ nav.container {
   align-items: center;
   list-style-type: none;
   gap: 10px;
+  position: relative;
 }
 .link {
   text-decoration: none;
@@ -31,9 +33,27 @@ nav.container {
 .bttpesquisa {
   width: 30px;
   height: 30px;
-  color:white;
+  color: white;
 }
 .box {
   background-color: rgb(161, 159, 159);
   border-radius: 5px;
+}
+.list li ul {
+  position: absolute;
+  list-style: none;
+  background: rgb(80, 80, 80);
+  display: none;
+  padding: 3px 10vw 3px 10px;  
+  border-radius: 10px;
+}
+.list li:hover ul, .list li.over ul{
+  display: block;
+}
+.list li ul li {
+  display: block;
+  width: 50px;
+}
+.list li {
+
 }
