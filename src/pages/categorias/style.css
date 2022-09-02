@@ -31,16 +31,16 @@
   margin: 10px 0;
 }
 .conteinerCategoria .itemCategoria .priceCategoria {
-    margin-top: 10px;
-    font-size: 1.2rem;
+  margin-top: 10px;
+  font-size: 1.2rem;
 }
-.conteinerCategoria .itemCategoria .oldPriceCategoria{
-    flex-grow: 1;
-    font-size: 0.8rem;
-    text-decoration: line-through;
+.conteinerCategoria .itemCategoria .oldPriceCategoria {
+  flex-grow: 1;
+  font-size: 0.8rem;
+  text-decoration: line-through;
 }
 
-.tituloCategoria{
-    display: flex;
-    justify-content: center;
+.tituloCategoria {
+  display: flex;
+  justify-content: center;
 }
