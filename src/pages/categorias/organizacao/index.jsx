@@ -9,7 +9,7 @@ export function Organizacao() {
   }, [])
   return (
     <>
-      <h1 className='tituloCategoria'>Organização</h1>
+      <h1 className='tituloCategoria'>Organização cu</h1>
       <section className='conteinerCategoria'>
         {data.map((item) => {
           const { id, name, price, oldPrice, image } = item
